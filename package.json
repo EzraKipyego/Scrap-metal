@@ -1,0 +1,23 @@
+{
+  "name": "scrap-metal",
+  "version": "1.0.0",
+  "description": "This is a web project for a scrap metal business. It helps users view services, location, and contact information for buying and selling scrap metal. It is built using HTML, CSS, and JavaScript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzraKipyego/Scrap-metal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzraKipyego/Scrap-metal/issues"
+  },
+  "homepage": "https://github.com/EzraKipyego/Scrap-metal#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
