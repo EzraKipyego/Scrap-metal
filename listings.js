@@ -123,9 +123,6 @@ function showItems(items) {
     });
 }
 
-/* =========================
-   SEARCH (IMPROVED UX)
-========================= */
 function searchItems() {
     let input = document.getElementById("search");
     let value = input.value.trim().toLowerCase();
